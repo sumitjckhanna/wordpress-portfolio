@@ -137,12 +137,11 @@ a.portfolio {
     text-decoration: none;
 }
 .projectName {
-    padding: 20px 0;
+
+    padding: 20px 0 !important;
     margin: 20px auto 0;
-    text-align: center;
     font-weight: 700;
     color: #000;
-    max-width: 420px;
     display: block;
     text-decoration: none !important;
     outline: none !important;
